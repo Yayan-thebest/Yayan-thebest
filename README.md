@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Yannick Moné
+# 👋 Hi, I'm Yannick Mone
 
 💻 Full Stack Web Developer based in Montreal, passionate about building modern, secure, and scalable web applications.
 
--
+#
 
 🧠 Constantly learning and exploring **AI**, automation, and turning ideas into real products.
 
 📌 Latest project:  
 🎥 [SaaS TalkAI](https://github.com/Yayan-thebest/saas-talkai) — an intelligent video call platform with transcripts, AI summaries, and context-aware chat.
 
----
+#
 ## 🧰 Tech Stack
 
 ### Languages
@@ -51,10 +51,11 @@
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
 </p>
 
----
+#
 
-📫 Get in touch: [Email](mailto:monedgard@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/yannick-m-84a409167)
+## 📫 Get in touch: 
+[Email](mailto:monedgard@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/yannick-m-84a409167)
 
----
+#
 
 > “Build it, test it, break it, fix it, improve it – repeat.”
