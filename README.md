@@ -2,7 +2,7 @@
 
 💻 Full Stack Web Developer based in Montreal, passionate about building modern, secure, and scalable web applications.
 
----
+-
 
 🧠 Constantly learning and exploring **AI**, automation, and turning ideas into real products.
 
