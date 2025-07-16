@@ -9,6 +9,9 @@
 📌 Latest project:  
 🎥 [SaaS TalkAI](https://github.com/Yayan-thebest/saas-talkai) — an intelligent video call platform with transcripts, AI summaries, and context-aware chat.
 
+Check out my coding [Portfolio](https://yannickmone.vercel.app/fr)!
+
+
 #
 ## 🧰 Tech Stack
 
@@ -54,7 +57,7 @@
 #
 
 ## 📫 Get in touch: 
-[Email](mailto:monedgard@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/yannick-m-84a409167)
+[Email](mailto:monedgard@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/yannick-m-84a409167) | [Portfolio](https://yannickmone.vercel.app/fr)
 
 #
 
