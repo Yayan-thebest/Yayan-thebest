@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Yannick Mone
 
-<!--
-**Yayan-thebest/Yayan-thebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Web Developer, passionate about building modern, secure, and scalable web applications.
 
-Here are some ideas to get you started:
+🚀 Main Tech Stack:  
+- **Frontend**: React.js, Next.js, TypeScript, Tailwind CSS  
+- **Backend**: Python (Django), PHP (Laravel), Node.js  
+- **Databases**: PostgreSQL, MySQL  
+- **Tools**: Git, GitHub, Vercel, AWS, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Continuously learning and exploring **AI**, automation, and everything that turns ideas into impactful products.
+
+📌 Latest project:  
+🎥 [SaaS TalkAI](https://github.com/Yayan-thebest/saas-talkai) — an intelligent video call platform with automatic transcripts, AI meeting summaries, and a context-aware chat assistant.
+
+📫 Get in touch:  
+[monedgard@yahoo.com](mailto:monedgard@yahoo.com) | [www.linkedin.com/in/yannick-m-84a409167](#) *(to be added)*
+
+---
+
+> “Build it, test it, break it, fix it, improve it – repeat.”
